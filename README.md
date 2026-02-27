@@ -2,6 +2,7 @@
 
 
 **About Me**
+
 I am a Marketing & Data Analytics professional currently pursuing my MS in Business Analytics at Isenberg School of Management, UMass Amherst. With hands-on experience across marketing and data roles in Pakistan and the US, I specialize in turning complex data into clear business decisions that drive measurable results.
 I thrive at the intersection of marketing and analytics — whether that's analyzing user behavior through GA4, building Power BI dashboards, forecasting trends with machine learning, or optimizing campaigns through data-driven insights. My goal is to bridge the gap between data and strategy to solve real business problems.
 
