@@ -1,16 +1,27 @@
-## Hi there 👋
+**Hi there, I'm Ekta!** 👋
 
-<!--
-**Ekta764/Ekta764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**About Me**
+I am a Marketing & Data Analytics professional currently pursuing my MS in Business Analytics at Isenberg School of Management, UMass Amherst. With hands-on experience across marketing and data roles in Pakistan and the US, I specialize in turning complex data into clear business decisions that drive measurable results.
+I thrive at the intersection of marketing and analytics — whether that's analyzing user behavior through GA4, building Power BI dashboards, forecasting trends with machine learning, or optimizing campaigns through data-driven insights. My goal is to bridge the gap between data and strategy to solve real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills**
+**Data Analysis & Programming**
+Python, SQL, R, Advanced Excel
+
+**Visualization & BI**
+Power BI (DAX), Tableau, Google Analytics 4
+
+**Marketing Analytics**
+SEO, Digital Marketing, Consumer Insights, Market Research
+
+**Other Tools**
+Canva, HubSpot, Streamlit,Pandas,Scikit-learn
+
+🎯 **Interests**
+
+📊 Marketing Analytics — Using data to optimize campaigns and understand customer behavior
+📈 Business Intelligence — Building dashboards that drive real business decisions
+🤖 Predictive Analytics — Forecasting trends and outcomes using machine learning
+🌐 Digital Marketing — SEO, paid campaigns and performance measurement
+🔍 User Behavior Analysis — Understanding how people interact with products and platforms
